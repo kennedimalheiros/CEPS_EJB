@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+/CEPS_EJB-ejb/build/
+/CEPS_EJB-ejb/dist/
+/dist/
+/build/
+/CEPS_EJB-war/build/
+/CEPS_EJB-war/dist/
